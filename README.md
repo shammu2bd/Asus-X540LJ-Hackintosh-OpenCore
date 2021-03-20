@@ -21,24 +21,24 @@ Asus X540LJ Hackintosh working OpenCore EFI with macOS Big Sur
   + HDD 1TB
 
 # WORKING:
-- [x] Power Management.   - YES
-- [x] Intel HD5500.       - YES
-- [x] Sound               - YES
-- [x] Wifi                - YES
-- [x] Adjust brightness   - YES
-- [x] USB 2.0 and 3.0.    - YES
-- [x] Trackpad.           - YES
-- [x] Sleep               - YES (working while using battery)
-- [x] Battery Stat        - YES
-- [x] Tempareture Monitor - YES
-- [x] Ethernet.           - YES (not tested)
-- [x] Apple Store         - YES
-- [x] iCloud              - YES
-- [x] Fn feature          - YES (not all button works)
+- [x] Power Management
+- [x] Intel HD5500
+- [x] Sound 
+- [x] Wifi
+- [x] Adjust brightness 
+- [x] USB 2.0 and 3.0
+- [x] Trackpad
+- [x] Sleep  **(working while power adapter is not connected and using battery)**
+- [x] Battery Stat 
+- [x] Tempareture Monitor 
+- [x] Ethernet    **(not tested)**
+- [x] Apple Store 
+- [x] iCloud 
+- [x] Fn feature    **(not all button works)**
 
 # Not WORKING:
-- [ ] Nvdia 920M GPU   - will not work
-- [ ] Bluetooth        - Still searching for fix
+- [ ] Nvdia 920M GPU   **(will not work)**
+- [ ] Bluetooth        **(Still searching for fix)**
 
 
 ## Credits
