@@ -11,7 +11,7 @@ Asus X540LJ Hackintosh working OpenCore 0.6.7 EFI with macOS Big Sur 11.2.3
 - **Processor:** Intel Core i3-5005U @ 2.0GHz (Broadwell)
 - **RAM:** 8GB DDR3 1600mhz (Duel channel)
 - **Graphic:** 
-  + Intel HD5500 (1536MB of dynamic memory (shared from the system))
+  + Intel HD5500 (1536MB of dynamic memory (shared from the system)
   + NVIDIA GeForce 920M 2GB
 - **Network:**
   + Wifi: Atheros AR9565
