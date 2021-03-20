@@ -40,6 +40,10 @@ Asus X540LJ Hackintosh working OpenCore EFI with macOS Big Sur
 - [ ] Nvdia 920M GPU   **(will not work)**
 - [ ] Bluetooth        **(Still searching for fix)**
 
+# BIOS Settings:
+- **Vt-d:** Enable
+- **DVMT Pre-Allocated :** 64M
+
 
 ## Credits
 @RehabMan for his guide for beginner
