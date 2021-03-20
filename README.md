@@ -37,8 +37,8 @@ Asus X540LJ Hackintosh working OpenCore EFI with macOS Big Sur
 - [x] Fn feature          - YES (not all button works)
 
 # Not WORKING:
-- [x] Nvdia 920M GPU   - will not work
-- [x] Bluetooth        - Still searching for fix
+- [ ] Nvdia 920M GPU   - will not work
+- [ ] Bluetooth        - Still searching for fix
 
 
 ## Credits
