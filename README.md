@@ -2,7 +2,7 @@
 Asus X540LJ Hackintosh working OpenCore 0.6.7 EFI with macOS Big Sur 11.2.3
 
 # Asus Vivobook X540LJ
-- **bootloader:** OpenCore 0.6.7
+- **Bootloader:** OpenCore 0.6.7
 - **macOS:** 11.2.3 Big Sur
 
 # Specification:
