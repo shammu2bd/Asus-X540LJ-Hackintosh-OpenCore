@@ -18,8 +18,7 @@ Asus X540LJ Hackintosh working OpenCore 0.6.7 EFI with macOS Big Sur 11.2.3
   + Ethernet: Realtek RTL8111
 - **Audio:** Realtek ALC255 (layout-27)
 - **Touchpad:** ELAN 1100 (I2C)
-- **Storage**:
-  + HDD 1TB
+- **Storage**: HDD 1TB
 
 # WORKING:
 - [x] Power Management
