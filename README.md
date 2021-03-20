@@ -39,6 +39,8 @@ Asus X540LJ Hackintosh working OpenCore EFI with macOS Big Sur
 # Not WORKING:
 - [ ] Nvdia 920M GPU   **(will not work)**
 - [ ] Bluetooth        **(Still searching for fix)**
+- [ ] Realtek Card Reader **(Not checked)**
+
 
 # BIOS Settings:
 - **Vt-d:** Enable
