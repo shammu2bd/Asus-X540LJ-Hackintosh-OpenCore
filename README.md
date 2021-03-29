@@ -5,6 +5,9 @@ Asus X540LJ Hackintosh working OpenCore 0.6.7 EFI with macOS Big Sur 11.2.3
 - **Bootloader:** OpenCore 0.6.7
 - **macOS:** 11.2.3 Big Sur
 
+# Update: 30-March-2021
+- Bluetooth has fixed
+
 # Specification:
 
 - **MainBoard:** Asus X540LJ.
@@ -25,6 +28,7 @@ Asus X540LJ Hackintosh working OpenCore 0.6.7 EFI with macOS Big Sur 11.2.3
 - [x] Intel HD5500
 - [x] Sound 
 - [x] Wifi
+- [x] Bluetooh
 - [x] Adjust brightness 
 - [x] USB 2.0 and 3.0
 - [x] Trackpad
@@ -38,13 +42,15 @@ Asus X540LJ Hackintosh working OpenCore 0.6.7 EFI with macOS Big Sur 11.2.3
 
 # Not WORKING:
 - [ ] Nvdia 920M GPU   **(will not work)**
-- [ ] Bluetooth        **(Still searching for fix)**
 - [ ] Realtek Card Reader **(Not checked)**
 
 
 # BIOS Settings:
 - **Vt-d:** Enable
 - **DVMT Pre-Allocated :** 64M
+
+# Bluetooth fix:
+- To get bluetooth work, you have to put your laptop to sleel mode once.
 
 
 ## Credits
