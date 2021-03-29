@@ -6,7 +6,7 @@ Asus X540LJ Hackintosh working OpenCore 0.6.7 EFI with macOS Big Sur 11.2.3
 - **macOS:** 11.2.3 Big Sur
 
 # Update: 30-March-2021
-- Bluetooth has fixed
+- Bluetooth has been fixed
 
 # Specification:
 
