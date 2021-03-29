@@ -50,11 +50,12 @@ Asus X540LJ Hackintosh working OpenCore 0.6.7 EFI with macOS Big Sur 11.2.3
 - **DVMT Pre-Allocated :** 64M
 
 # Bluetooth fix:
-- To get bluetooth work, you have to put your laptop to sleel mode once.
+- To get bluetooth work, you have to put your laptop to sleep mode for once.
 
 
 ## Credits
 @RehabMan for his guide for beginner
 @alexandred and his team for VoodooI2C 
 @acidanthera for his OpenCore Bootloader and kexts
+@zxystd for Atheros Bluetooth fix
 and many more people that I can't list here.
