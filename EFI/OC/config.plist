@@ -334,6 +334,8 @@
 			<dict>
 				<key>layout-id</key>
 				<integer>27</integer>
+				<key>alc-delay</key>
+				<integer>1000</integer>
 			</dict>
 		</dict>
 		<key>Delete</key>
