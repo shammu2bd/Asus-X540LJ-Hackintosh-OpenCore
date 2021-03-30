@@ -59,7 +59,7 @@ Asus X540LJ Hackintosh working OpenCore 0.6.7 EFI with macOS Big Sur 11.2.3
 - Install macOS Big Sur.
 - No need to install any additional kext to macOS extention. All driver will be loaded automatically.
 - After install mount the USB EFI and copy this to your HDD EFI.
-- Change the serial numbers and other things. You can find the tutorial here. (https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/broadwell.html#platforminfo)
+- Change the serial numbers and other things. You can find the tutorial [here.](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/broadwell.html#platforminfo)
 
 # Bluetooth fix:
 - To get bluetooth work, you have to put your laptop to sleep mode for once.
