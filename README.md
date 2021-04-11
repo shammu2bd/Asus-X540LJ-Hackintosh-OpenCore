@@ -1,9 +1,13 @@
 # Asus-X540LJ-Hackintosh-OpenCore
-Asus X540LJ Hackintosh working OpenCore 0.6.7 EFI with macOS Big Sur 11.2.3
+Asus X540LJ Hackintosh working OpenCore 0.6.8 EFI with macOS Big Sur 11.2.3
 
 # Asus Vivobook X540LJ
-- **Bootloader:** OpenCore 0.6.7
+- **Bootloader:** OpenCore 0.6.8
 - **macOS:** 11.2.3 Big Sur
+
+# Update: 11-April-2021
+- OpenCore 0.6.7 to 0.6.8
+- Updated some Kext
 
 # Update: 30-March-2021
 - Bluetooth has been fixed
