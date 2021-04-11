@@ -29,15 +29,15 @@ Asus X540LJ Hackintosh working OpenCore 0.6.7 EFI with macOS Big Sur 11.2.3
 # WORKING:
 - [x] Power Management
 - [x] Intel HD Graphics 5500
-- [x] Sound (Internel Speaker and Headphone)
-- [x] Mic (Internel and External)
+- [x] Sound **(Internal Speaker and Headphone working)**
+- [x] Mic **(Internal and External both working)**
 - [x] Wifi
-- [x] Bluetooh
-- [x] Realtek SD Card Reader
+- [x] Bluetooth
+- [x] SD Card Reader
 - [x] Ethernet
 - [x] Adjust brightness 
 - [x] USB 2.0 and 3.0
-- [x] Trackpad (All gestures supported)
+- [x] Trackpad **(All gestures supported)**
 - [x] Sleep  **(working while power adapter is not connected and using battery)**
 - [x] Battery Stat 
 - [x] Tempareture Monitor 
@@ -46,7 +46,7 @@ Asus X540LJ Hackintosh working OpenCore 0.6.7 EFI with macOS Big Sur 11.2.3
 - [x] Fn feature    **(not all button works)**
 
 # Not WORKING:
-- [ ] Nvdia 920M GPU   **(will never work)**
+- [ ] Nvidia 920M GPU   **(will never work)**
 
 
 # BIOS Settings:
