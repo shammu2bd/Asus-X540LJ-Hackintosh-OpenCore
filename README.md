@@ -1,11 +1,16 @@
 # Asus-X540LJ-Hackintosh-OpenCore
-Asus X540LJ Hackintosh working OpenCore 0.7.0 EFI with macOS Big Sur 11.4
+Asus X540LJ Hackintosh working OpenCore 0.7.1 EFI with macOS Big Sur 11.4
 
 # Asus Vivobook X540LJ
-- **Bootloader:** OpenCore 0.7.0
+- **Bootloader:** OpenCore 0.7.1
 - **macOS:** 11.4 Big Sur
 
 # Changelog
+### Update: 7-July-2021
+- OpenCore Update 0.7.0 to 0.7.1
+- Battery Percentage Status Algorithm Fix
+- Other Kext update
+
 ### Update: 8-June-2021
 - OpenCore Update 0.6.8 to 0.7.0
 - Bluetooth Kext Update
@@ -59,23 +64,32 @@ Asus X540LJ Hackintosh working OpenCore 0.7.0 EFI with macOS Big Sur 11.4
 
 # Not WORKING:
 - [ ] Nvidia 920M GPU   **(will never work)**
+- [ ] iMassage **(Not working on my device. It might work on your device)**
+- [ ] Facetime **(Not working on my device. It might work on your device)**
 
 
 # BIOS Settings:
 - No need to change any BIOS settings. Set default BIOS settings.
-- If you use secondery monitor then disable **Launch CSM** in BIOS boot section.
+- If you use secondery monitor then disable `Launch CSM` in BIOS boot section.
 
 
 # Installation:
 - Change the default BIOS settings.
 - Just put this EFI to your USB EFI partition.
+- If you don't know how to bootable your USB then [here.](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
 - Install macOS Big Sur.
 - No need to install any additional kext to macOS extention. All driver will be loaded automatically.
 - After install mount the USB EFI and copy this to your HDD EFI.
 - Change the serial numbers and other things. You can find the tutorial from [here.](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/broadwell.html#platforminfo)
 
 # Bluetooth fix:
-- To toggle on/off bluetooth, you have to swichoff your wifi.
+- To toggle on/off bluetooth, you have to swichoff your wifi temporary.
+
+# SSD Fix:
+- If you use SSD then you have to enable TRIM Support for better performance.
+- Go to the Terminal and type `sudo trimforce enable`
+- Then type **Y** and enter.
+
 
 
 ## Credits
