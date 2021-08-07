@@ -1,11 +1,17 @@
 # Asus-X540LJ-Hackintosh-OpenCore
-Asus X540LJ Hackintosh working OpenCore 0.7.1 EFI with macOS Big Sur 11.4
+Asus X540LJ Hackintosh working OpenCore 0.7.2 EFI with macOS Big Sur 11.5.1
 
 # Asus Vivobook X540LJ
-- **Bootloader:** OpenCore 0.7.1
-- **macOS:** 11.4 Big Sur
+- **Bootloader:** OpenCore 0.7.2
+- **macOS:** 11.5.1 Big Sur
 
 # Changelog
+### Update: 7-August-2021
+- OpenCore Update 0.7.1 to 0.7.2
+- Added SSDT patch that fully turned off dGPU for saving power consumption.
+- Fixed FN button for Brightness.
+- Other Kext update.
+
 ### Update: 7-July-2021
 - OpenCore Update 0.7.0 to 0.7.1
 - Battery Percentage Status Algorithm Fix
@@ -60,7 +66,7 @@ Asus X540LJ Hackintosh working OpenCore 0.7.1 EFI with macOS Big Sur 11.4
 - [x] Tempareture Monitor 
 - [x] Apple Store 
 - [x] iCloud 
-- [x] Fn feature    **(not all button works)**
+- [x] Fn feature **(Brightness and volume button works)**
 
 # Not WORKING:
 - [ ] Nvidia 920M GPU   **(will never work)**
@@ -87,7 +93,7 @@ Asus X540LJ Hackintosh working OpenCore 0.7.1 EFI with macOS Big Sur 11.4
 
 # SSD Fix:
 - If you use SSD then you have to enable TRIM Support for better performance.
-- Go to the Terminal and type `sudo trimforce enable`
+- Go to the Terminal and type `sudo trimforce enable`
 - Then type **Y** and enter.
 
 
