@@ -1,11 +1,15 @@
 # Asus-X540LJ-Hackintosh-OpenCore
-Asus X540LJ Hackintosh working OpenCore 0.7.2 EFI with macOS Big Sur 11.5.1
+Asus X540LJ Hackintosh working OpenCore 0.7.4 EFI with macOS Big Sur 11.6
 
 # Asus Vivobook X540LJ
-- **Bootloader:** OpenCore 0.7.2
-- **macOS:** 11.5.1 Big Sur
+- **Bootloader:** OpenCore 0.7.4
+- **macOS:** 11.6 Big Sur
 
 # Changelog
+### Update: 18-October-2021
+- Update OpenCore 0.7.2 to 0.7.4
+- Other Kext update.
+
 ### Update: 7-August-2021
 - OpenCore Update 0.7.1 to 0.7.2
 - Added SSDT patch that fully turned off dGPU for saving power consumption.
