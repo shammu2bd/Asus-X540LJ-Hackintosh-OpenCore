@@ -8,6 +8,7 @@ Asus X540LJ Hackintosh working OpenCore 0.7.4 EFI with macOS Big Sur 11.6
 # Changelog
 ### Update: 18-October-2021
 - Update OpenCore 0.7.2 to 0.7.4
+- Performance optimization.
 - Other Kext update.
 
 ### Update: 7-August-2021
