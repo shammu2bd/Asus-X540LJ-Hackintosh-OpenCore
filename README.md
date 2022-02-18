@@ -1,47 +1,15 @@
 # Asus-X540LJ-Hackintosh-OpenCore
-Asus X540LJ Hackintosh working OpenCore 0.7.5 EFI with macOS Big Sur 11.6.1
+Asus X540LJ Hackintosh working OpenCore 0.7.8 EFI with macOS Big Sur 11.6.4
 
 # Asus Vivobook X540LJ
-- **Bootloader:** OpenCore 0.7.5
-- **macOS:** 11.6.1 Big Sur
+- **Bootloader:** OpenCore 0.7.8
+- **macOS:** 11.6.4 Big Sur
 
 # Changelog
-### Update: 14-November-2021
-- Update OpenCore 0.7.4 to 0.7.5
-- USB Driver update
+### Update: 18-February-2022
+- Update OpenCore 0.7.5 to 0.7.8
+- macOS Big Sur 11.6.4 support
 - Other Kext update
-
-### Update: 18-October-2021
-- Update OpenCore 0.7.2 to 0.7.4
-- Performance optimization.
-- Other Kext update.
-
-### Update: 7-August-2021
-- OpenCore Update 0.7.1 to 0.7.2
-- Added SSDT patch that fully turned off dGPU for saving power consumption.
-- Fixed FN button for Brightness.
-- Other Kext update.
-
-### Update: 7-July-2021
-- OpenCore Update 0.7.0 to 0.7.1
-- Battery Percentage Status Algorithm Fix
-- Other Kext update
-
-### Update: 8-June-2021
-- OpenCore Update 0.6.8 to 0.7.0
-- Bluetooth Kext Update
-- Ethernet Kext Update
-- Android USB Tethering Kext Update
-- BIOS config changes
-
-### Update: 11-April-2021
-- Updated OpenCore 0.6.7 to 0.6.8
-- Updated some Kext
-
-### Update: 30-March-2021
-- Bluetooth has been fixed
-- Realtek SD Card Reader Fixed
-- Realtek Ethernet Fixed
 
 # Specification:
 
