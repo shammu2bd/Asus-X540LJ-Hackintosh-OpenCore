@@ -1,11 +1,16 @@
 # Asus-X540LJ-Hackintosh-OpenCore
-Asus X540LJ Hackintosh working OpenCore 0.7.8 EFI with macOS Big Sur 11.6.4
+Asus X540LJ Hackintosh working OpenCore 0.7.9 EFI with macOS Big Sur 11.6.4
 
 # Asus Vivobook X540LJ
-- **Bootloader:** OpenCore 0.7.8
+- **Bootloader:** OpenCore 0.7.9
 - **macOS:** 11.6.4 Big Sur
 
 # Changelog
+### Update: 20-March-2022
+- Update OpenCore 0.7.8 to 0.7.9
+- CPU power management optimization.
+- Other Kext update
+
 ### Update: 18-February-2022
 - Update OpenCore 0.7.5 to 0.7.8
 - macOS Big Sur 11.6.4 support
