@@ -3,9 +3,7 @@
 ## I have released macOS Sonoma & Sequoia EFI for Asus X540LJ. Go to [this link](https://github.com/shammu2bd/Asus-X540LJ-Hackintosh-macOS-Sequoia-OpenCore)
 
 
-
-
-# Asus Vivobook X540LJ
+- **Device:** Asus Vivobook X540LJ
 - **Bootloader:** OpenCore 0.7.9
 - **macOS:** 11.6.5 Big Sur
 
