@@ -1,7 +1,6 @@
 # Asus-X540LJ-Hackintosh-OpenCore
 
-## I have released macOS Sonoma & Sequoia EFI for Asus X540LJ. 
-Go to [this link](https://github.com/shammu2bd/Asus-X540LJ-Hackintosh-macOS-Sequoia-OpenCore)
+### I have released macOS Sonoma & Sequoia EFI for Asus X540LJ. Go to [this link](https://github.com/shammu2bd/Asus-X540LJ-Hackintosh-macOS-Sequoia-OpenCore)
 
 
 - **Device:** Asus Vivobook X540LJ
