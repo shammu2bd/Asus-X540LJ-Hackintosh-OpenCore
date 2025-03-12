@@ -1,4 +1,4 @@
-# Asus-X540LJ-Hackintosh-macOS-Sonoma-sequoia-OpenCore
+# Asus-X540LJ-Hackintosh-macOS-sequoia-OpenCore
 
 # Asus Vivobook X540LJ
 - **Bootloader:** OpenCore 1.0.2
