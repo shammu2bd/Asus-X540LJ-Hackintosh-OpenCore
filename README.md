@@ -44,7 +44,7 @@
 - [x] Sleep  **(working while using battery. Will not work in power connected mode)**
 - [x] Battery Stat 
 - [x] Tempareture Monitor
-- [x] HDMI port with External Display & Audio output
+- [x] HDMI/VGA port with External Display & Audio output
 - [x] Apple Store, iCloud, FaceTime, iMessege
 - [x] Universal Control
 - [x] Continuity Camera
