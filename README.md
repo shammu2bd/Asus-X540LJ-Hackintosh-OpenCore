@@ -24,6 +24,7 @@
   + NVIDIA GeForce 920M 2GB
 - **Network:**
   + **Wifi:** Atheros AR9565
+  + **Bluetooth:** Atheros AR3012
   + **Ethernet:** Realtek RTL810xE
 - **Audio:** Realtek ALC255
 - **Touchpad:** ELAN 1100 (I2C)
@@ -32,8 +33,8 @@
 
 # WORKING:
 - [x] Power Management
-- [x] Intel HD Graphics 5500 (OCLP patch needed)
-- [x] Wifi (Atheros AR9565) (OCLP patch needed)
+- [x] Intel HD Graphics 5500 **(OCLP patch needed)**
+- [x] Built-in Wifi (Atheros AR9565) **(OCLP patch needed)**
 - [x] Sound **(Internal Speaker and Headphone working)**
 - [x] Mic **(Internal and External both working)**
 - [x] SD Card Reader
@@ -52,8 +53,8 @@
 
 # Not WORKING:
 - [ ] Nvidia 920M GPU   **(will never work)**
-- [ ] Airdrop (Need apple supported wifi adapter)
-- [ ] Bluetooth (USB BT adapter needed)
+- [ ] Airdrop **(Need apple supported wifi adapter)**
+- [ ] Bluetooth **(USB BT adapter needed)**
 
 # Installation:
 
