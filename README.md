@@ -99,6 +99,7 @@ There has two method to update. If update directly then the size of the update w
 
 ## Credits
 @RehabMan for his guide for beginner
+@unitedastronomer for the wifi patch
 @alexandred and his team for VoodooI2C 
 @acidanthera for his OpenCore Bootloader and kexts
 and many more people that I can't list here.
