@@ -55,7 +55,7 @@
 
 # Not WORKING:
 - [ ] Nvidia 920M GPU
-        + **will never work**
+  + **will never work**
 - [ ] Airdrop
         + **Need apple supported wireless/bluetooth devices**
 - [ ] Bluetooth
