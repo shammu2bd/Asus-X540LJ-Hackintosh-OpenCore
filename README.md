@@ -54,15 +54,15 @@
 - [x] Fn feature **(Brightness and volume button works)**
 
 # Not WORKING:
-- [ ] Nvidia 920M GPU
-  + **will never work**
+- [ ] Nvidia 920M dGPU
+  + **will never work discrete gpu**
 - [ ] Airdrop
-        + **Need apple supported wireless/bluetooth devices**
+  + **Need apple supported wireless/bluetooth devices**
 - [ ] Bluetooth
-        + **USB BT adapter needed**
+  + **USB BT adapter needed**
 - [ ] No DRM support
-       + **NETFLIX will not work on safari browser**
-       + **AppleTV app will not play videos**
+  + **NETFLIX will not work on safari browser**
+  + **AppleTV app will not play videos**
 
 # Installation:
 
