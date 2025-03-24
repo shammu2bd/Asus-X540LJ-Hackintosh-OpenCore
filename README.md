@@ -49,12 +49,15 @@
 - [x] Apple Store, iCloud, FaceTime, iMessege
 - [x] Universal Control
 - [x] Continuity Camera
+- [x] iPhone Mirroring
+- [x] AirPlay
 - [x] Fn feature **(Brightness and volume button works)**
 
 # Not WORKING:
 - [ ] Nvidia 920M GPU   **(will never work)**
 - [ ] Airdrop **(Need apple supported wireless/bluetooth devices)**
 - [ ] Bluetooth **(USB BT adapter needed)**
+- [ ] No DRM support **(NETFLIX will not work on safari browser, AppleTV app will not play videos)**
 
 # Installation:
 
