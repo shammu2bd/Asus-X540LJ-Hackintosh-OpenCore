@@ -58,9 +58,8 @@
 - [ ] Airdrop **(Need apple supported wireless/bluetooth devices)**
 - [ ] Bluetooth **(USB BT adapter needed)**
 - [ ] No DRM support
-  + NETFLIX will not work on safari browser
-  + AppleTV app will not play videos
-- [ ] **(NETFLIX will not work on safari browser, AppleTV app will not play videos)**
+  + **NETFLIX will not work on safari browser**
+  + **AppleTV app will not play videos**
 
 # Installation:
 
